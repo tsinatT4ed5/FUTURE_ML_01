@@ -1,4 +1,4 @@
-# FUTURE_ML_01
+<img width="1389" height="590" alt="download" src="https://github.com/user-attachments/assets/672172a3-63eb-400c-ae27-01d4775c4756" /># FUTURE_ML_01
 Machine Learning Internship Project at Future Interns
 # Walmart Sales Forecast project
 
@@ -61,10 +61,14 @@ For this project, I chose the ARIMA (AutoRegressive Integrated Moving Average) m
   - MAE (Mean Absolute Error):Measures average absolute difference between predicted and actual sales.  
   - MSE (Mean Squared Error):Penalizes larger errors by squaring the differences.  
   - RMSE (Root Mean Squared Error): Square root of MSE, gives error in original units.  
+
   
  ##Visualization
   - Line plots to compare actual vs predicted weekly sales.  
-  - Bar plots for top-performing stores.  
+  - Bar plots for top-performing stores.
+<img width="1166" height="549" alt="download" src="https://github.com/user-attachments/assets/aa8e767f-3260-4849-a348-424d386747df" />
+<img width="1389" height="590" alt="download" src="https://github.com/user-attachments/assets/1c5b84ce-41e4-491c-ab29-f18dab8318ca" />
+
 
   #Process
   1. Split data into training and testing sets based on time.  
