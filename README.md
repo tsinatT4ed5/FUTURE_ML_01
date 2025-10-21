@@ -1,4 +1,4 @@
-<img width="1389" height="590" alt="download" src="https://github.com/user-attachments/assets/672172a3-63eb-400c-ae27-01d4775c4756" /># FUTURE_ML_01
+
 Machine Learning Internship Project at Future Interns
 # Walmart Sales Forecast project
 
